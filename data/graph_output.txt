@@ -1,0 +1,37 @@
+Winnetou,Old Shatterhand:31
+Winnetou,Old Surehand:11
+Winnetou,Old Wabble:7
+Winnetou,Bloody-Fox:12
+Winnetou,Vupa Umugi:8
+Winnetou,Schiba-bigk:3
+Winnetou,Parker:1
+Old Shatterhand,Old Surehand:9
+Old Shatterhand,Old Wabble:4
+Old Shatterhand,Sam Parker:1
+Old Shatterhand,Bloody-Fox:1
+Old Shatterhand,Vupa Umugi:8
+Old Shatterhand,Schiba-bigk:3
+Old Shatterhand,Parker:2
+Old Shatterhand,Hawley:1
+Old Surehand,Old Wabble:18
+Old Surehand,Vupa Umugi:2
+Old Surehand,Schiba-bigk:2
+Old Surehand,Parker:7
+Old Surehand,Hawley:7
+Old Wabble,Fred Cutter:2
+Old Wabble,Bloody-Fox:1
+Old Wabble,Vupa Umugi:1
+Old Wabble,Schiba-bigk:2
+Old Wabble,Parker:13
+Old Wabble,Hawley:8
+Sam Parker,Parker:11
+Sam Parker,Hawley:2
+Bloody-Fox,Vupa Umugi:2
+Bloody-Fox,Schiba-bigk:1
+Bloody-Fox,Parker:2
+Bloody-Fox,Hawley:1
+Vupa Umugi,Schiba-bigk:11
+Vupa Umugi,Parker:1
+Schiba-bigk,Parker:1
+Schiba-bigk,Hawley:1
+Parker,Hawley:30

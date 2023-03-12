@@ -1,0 +1,28 @@
+nodedef>name VARCHAR,label VARCHAR
+s3,Old_Wabble
+s5,Vupa_Umugi
+s0,Winnetou
+s8,Sam_Parker
+s6,Parker
+s9,Schiba-bigk
+s4,Bloody-Fox
+s7,Hawley
+s1,Old_Shatterhand
+s2,Old_Surehand
+edgedef>node1 VARCHAR,node2 VARCHAR
+s0,s1
+s0,s2
+s0,s3
+s0,s4
+s0,s5
+s1,s2
+s1,s3
+s1,s5
+s2,s3
+s2,s6
+s2,s7
+s3,s6
+s3,s7
+s8,s6
+s5,s9
+s6,s7
